@@ -1,0 +1,6 @@
+WindowsITPerformance-Data/
+*.log
+*.json
+*.bak
+*.tmp
+*.pow
